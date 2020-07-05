@@ -1,6 +1,6 @@
 # Script: polybar-anonsurf
 
-A tiny script to enable, disable and check status of ParrotOS anonsurf.
+A tiny polybar script to enable, disable and check status of ParrotOS anonsurf.
 
 ![anonsurf](image.png)
 
