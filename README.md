@@ -1,6 +1,6 @@
 # Script: polybar-anonsurf
 
-A small script to manage the ePrivacy state for ThinkPads.
+A tiny script to enable, disable and check status of ParrotOS anonsurf.
 
 ![anonsurf](screenshot.png)
 
