@@ -2,7 +2,7 @@
 
 A tiny script to enable, disable and check status of ParrotOS anonsurf.
 
-![anonsurf](screenshot.png)
+![anonsurf](image.png)
 
 
 ## Dependencies
