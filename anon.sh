@@ -19,9 +19,9 @@ anonsurf_watch () {
 
 anonsurf_toggle () {
     if [ "$(anonsurf_status)" = 2 ]; then
-      sudo /usr/bin/anonsurf stop
+      /usr/bin/anonsurf stop
     else
-      sudo /usr/bin/anonsurf start
+      /usr/bin/anonsurf start
     fi
 }
 
